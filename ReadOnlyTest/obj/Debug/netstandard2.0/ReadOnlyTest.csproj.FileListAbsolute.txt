@@ -1,0 +1,9 @@
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/bin/Debug/netstandard2.0/ReadOnlyTest.deps.json
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/bin/Debug/netstandard2.0/ReadOnlyTest.dll
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/bin/Debug/netstandard2.0/ReadOnlyTest.pdb
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/obj/Debug/netstandard2.0/ReadOnlyTest.csprojResolveAssemblyReference.cache
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/obj/Debug/netstandard2.0/ReadOnlyTest.csproj.CoreCompileInputs.cache
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/obj/Debug/netstandard2.0/ReadOnlyTest.AssemblyInfoInputs.cache
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/obj/Debug/netstandard2.0/ReadOnlyTest.AssemblyInfo.cs
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/obj/Debug/netstandard2.0/ReadOnlyTest.dll
+/Users/jeom/Documents/Apps/ReadOnlyTest/ReadOnlyTest/obj/Debug/netstandard2.0/ReadOnlyTest.pdb

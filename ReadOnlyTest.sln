@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyTest.Android", "ReadOnlyTest.Android\ReadOnlyTest.Android.csproj", "{C8E1302D-0E89-43D8-89DE-586B4644B672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyTest", "ReadOnlyTest\ReadOnlyTest.csproj", "{672B39FA-ED3E-4705-9689-EC3D07EF56C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E1302D-0E89-43D8-89DE-586B4644B672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1302D-0E89-43D8-89DE-586B4644B672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1302D-0E89-43D8-89DE-586B4644B672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1302D-0E89-43D8-89DE-586B4644B672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672B39FA-ED3E-4705-9689-EC3D07EF56C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672B39FA-ED3E-4705-9689-EC3D07EF56C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672B39FA-ED3E-4705-9689-EC3D07EF56C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672B39FA-ED3E-4705-9689-EC3D07EF56C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
